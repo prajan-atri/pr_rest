@@ -35,7 +35,7 @@ SECRET_KEY = 'django-insecure-sm_%)-_fwofyjxbi%ts04j*v51!rltq_xcn@o51u@0u7c#=l4a
 DEBUG = True
 
 #ALLOWED_HOSTS = []
-ALLOWED_HOSTS = ['pr-rest-snippets.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['pr-rest.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
